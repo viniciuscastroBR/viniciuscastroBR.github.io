@@ -146,3 +146,5 @@ footer.site .copy { grid-column: 1 / -1; border-top: 1px solid rgba(219,232,230,
   nav.menu { gap: 2px 18px; }
   header.site { position: static; }
 }
+.rline .img.duo { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; border-radius: 4px; }
+.rline .img.duo img { height: 100%; }

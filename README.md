@@ -13,7 +13,7 @@ Site do ViniLab, grupo de pesquisa do Prof. Vinicius Silva Castro (UFMT), public
 | Contato / Contact | `contato.html` | `en/contact.html` |
 
 - Cores e fontes: `assets/style.css` (variáveis no topo do arquivo).
-- Imagens: `assets/img/` (retrato, banner e ilustrações dos cartões, todas próprias do site).
+- Imagens: `assets/img/`. Banner, DNA, vírus, laboratório, molécula e rede neural vêm do Pixabay (licença livre); a placa de Petri foi criada para o site.
 - `publications.html` e `contact.html` na raiz só redirecionam os endereços antigos para as páginas novas.
 
 ## Como editar um texto
