@@ -191,3 +191,11 @@ footer.site .copy { grid-column: 1 / -1; border-top: 1px solid rgba(219,232,230,
 a.flag { opacity: .55; transition: opacity .2s; }
 a.flag:hover { opacity: 1; }
 .flag.on { border-color: var(--accent); }
+
+/* Artigos de opinião / opinion */
+.op { padding: 22px 0; border-top: 1px solid var(--line); }
+.op:first-child { border-top: 0; padding-top: 0; }
+.op time { color: var(--muted); font-size: .88rem; }
+.op h2 { font-size: 1.3rem; margin: 6px 0 8px; }
+.op h2 a { color: var(--text); }
+.soon { color: var(--muted); font-size: 1.05rem; margin: 0; }
