@@ -1,6 +1,6 @@
-# ViniLab
+# ViniCastroLab
 
-Site do ViniLab, grupo de pesquisa do Prof. Vinicius Silva Castro (UFMT), publicado pelo GitHub Pages em https://viniciuscastrobr.github.io
+Site do ViniCastroLab, grupo de pesquisa do Prof. Vinicius Silva Castro (UFMT), publicado pelo GitHub Pages em https://viniciuscastrobr.github.io
 
 ## Onde fica cada página
 

@@ -1,4 +1,4 @@
-/* ViniLab — estilo do site / site styles
+/* ViniCastroLab — estilo do site / site styles
    Para mudar cores ou fontes, altere só as variáveis abaixo. */
 :root {
   --bg: #ffffff;
@@ -178,3 +178,8 @@ footer.site .copy { grid-column: 1 / -1; border-top: 1px solid rgba(219,232,230,
   .feat .cover, .cover { width: 72px; }
   .pubs li.withcover { grid-template-columns: 72px 1fr; gap: 14px; }
 }
+
+/* Moldura oval / oval frame */
+.hero-photo img, .about .photo img { border-radius: 50%; aspect-ratio: 4 / 5; }
+.hero-photo span { text-align: center; }
+.about .photo span { display: none; }
