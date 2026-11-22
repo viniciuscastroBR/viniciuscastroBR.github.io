@@ -13,7 +13,7 @@ Site do ViniLab, grupo de pesquisa do Prof. Vinicius Silva Castro (UFMT), public
 | Contato / Contact | `contato.html` | `en/contact.html` |
 
 - Cores e fontes: `assets/style.css` (variáveis no topo do arquivo).
-- Retrato: `assets/img/retrato.jpg`.
+- Imagens: `assets/img/` (retrato, banner e ilustrações dos cartões, todas próprias do site).
 - `publications.html` e `contact.html` na raiz só redirecionam os endereços antigos para as páginas novas.
 
 ## Como editar um texto
