@@ -1,29 +1,24 @@
-# viniciuscastro.github.io
-Personal page
-<h1 align="center">Vinicius Silva Castro</h1>
+# ViniLab
 
-<p align="center">
-  <b>Postdoctoral Researcher | Food Microbiology & Bioinformatics</b><br>
-  <i>UFMT - Brazil</i>
-</p>
+Site do ViniLab, grupo de pesquisa do Prof. Vinicius Silva Castro (UFMT), publicado pelo GitHub Pages em https://viniciuscastrobr.github.io
 
----
+## Onde fica cada página
 
-- 🔬 Food microbiology, bacterial genomics, and data science
-- 🐍 Python & Bash scripting for biological data analysis
-- 🌎 Open science, collaboration, and scientific outreach
+| Página | Português | English |
+|---|---|---|
+| Início / Home | `index.html` | `en/index.html` |
+| Pesquisa / Research | `pesquisa.html` | `en/research.html` |
+| Publicações / Publications | `publicacoes.html` | `en/publications.html` |
+| Sobre / About | `sobre.html` | `en/about.html` |
+| Contato / Contact | `contato.html` | `en/contact.html` |
 
----
+- Cores e fontes: `assets/style.css` (variáveis no topo do arquivo).
+- Retrato: `assets/img/retrato.jpg`.
+- `publications.html` e `contact.html` na raiz só redirecionam os endereços antigos para as páginas novas.
 
-## 🌟 About this repository
+## Como editar um texto
 
-This repository hosts my personal website powered by **GitHub Pages**.  
-Here, you'll soon find tutorials, pipelines, and scripts for genomic and microbiological data analysis.
-
----
-
-## 📫 Find me online
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-silva-castro)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00ccbb?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Vinicius-Castro-8)
-[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=b-6dklwAAAAJ&hl=en)
+1. No GitHub, abra o arquivo da página e clique no lápis (Edit).
+2. Mude só o texto entre as marcações `<p>` e `</p>` (ou `<li>` e `</li>`).
+3. Clique em **Commit changes**. O site atualiza sozinho em 1 ou 2 minutos.
+4. Lembre de fazer a mesma mudança na versão em inglês, dentro da pasta `en/`.
