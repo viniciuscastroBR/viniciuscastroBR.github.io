@@ -183,3 +183,11 @@ footer.site .copy { grid-column: 1 / -1; border-top: 1px solid rgba(219,232,230,
 .hero-photo img, .about .photo img { border-radius: 50%; aspect-ratio: 4 / 5; }
 .hero-photo span { text-align: center; }
 .about .photo span { display: none; }
+
+/* Bandeiras de idioma / language flags */
+.flags { display: inline-flex; gap: 8px; align-items: center; }
+.flag { display: inline-flex; padding: 2px; border-radius: 3px; border: 1.5px solid transparent; line-height: 0; }
+.flag svg { width: 24px; height: 17px; border-radius: 2px; box-shadow: 0 0 0 1px rgba(0,0,0,.12); }
+a.flag { opacity: .55; transition: opacity .2s; }
+a.flag:hover { opacity: 1; }
+.flag.on { border-color: var(--accent); }
